@@ -6,9 +6,7 @@
 <!--- Tags:imported: ---> 
 <!--- Ust:None: ---> 
 <!--- Name:ATmegaTQ10001A: --->
-#ATmegaTQ10001A 
-<!--- LongName --->
-Module for ATmega in TQFP100 package
+# ATmegaTQ10001A - ATmega in TQFP100 package
 <!--- ELongName ---> 
 
 <!--- Lead --->
