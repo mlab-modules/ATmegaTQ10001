@@ -5,6 +5,7 @@ github_branch: ATmegaTQ10001A
 github_repo: ATmegaTQ10001
 github_url: https://github.com/mlab-modules/ATmegaTQ10001
 homepage: false
+image_title: doc/img/ATmegaTQ10001A_top.jpg
 images:
 - doc/img/ATmegaTQ10001A_BOT_small.jpg
 - doc/img/ATmegaTQ10001A_BOT.jpg
